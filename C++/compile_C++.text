@@ -1,0 +1,5 @@
+g++ -g HelloWorld.cpp -o HelloWorld.exe
+
+Hoặc nhấn tổ hợp Ctrl + Shift + B -> C/C++: g++.exe build active file. Hệ thống sẽ biên dịch HelloWorld.cpp và tạo ra file thực thi HelloWorld.exe.
+
+./HelloWorld.exe
