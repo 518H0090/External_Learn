@@ -1,0 +1,9 @@
+cargo build
+cargo run
+
+--Check 
+cargo check
+
+--Format 
+cd [rustfoldername]/src
+rustfmt [rustfilename]

@@ -1,0 +1,2 @@
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleString
+https://www.youtube.com/watch?v=lI1ae4REbFM&t=1368s
